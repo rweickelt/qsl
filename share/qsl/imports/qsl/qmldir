@@ -1,0 +1,4 @@
+module qsl
+depends QtQml 1.0
+
+QslApplication      1.0 QslApplication.qml
